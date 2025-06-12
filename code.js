@@ -1,9 +1,9 @@
 const variables = {
   "name": "Amrideep Baksi",
   "car_number": "WB-18-AE-3089",
-  "mobile": "+91 7890592131",
+  "mobile": "+91 7890592130",
   "car_image": "https://trident-group.s3.ap-south-1.amazonaws.com/hyundai/models/colors/1698916756.png",
-  "message": "If my car is blocking your way, please call me! Motherfucker",
+  "message": "If my car is blocking your way, please call me!",
   "facebook": "https://www.facebook.com/amrideep.b/",
   "instagram": "https://www.instagram.com/amrideep_baksi/",
   "linkedin": "https://www.linkedin.com/in/amrideep-baksi/"
