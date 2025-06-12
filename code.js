@@ -3,7 +3,7 @@ const variables = {
   "car_number": "WB-18-AE-3089",
   "mobile": "+91 7890592130",
   "car_image": "https://trident-group.s3.ap-south-1.amazonaws.com/hyundai/models/colors/1698916756.png",
-  "message": "If my car is blocking your way, please call me!",
+  "message": "If my car is blocking your way, please call me! যদি আমার গাড়ি তোমার পথ আটকে দেয়, তাহলে দয়া করে আমাকে ফোন করুন!",
   "facebook": "https://www.facebook.com/amrideep.b/",
   "instagram": "https://www.instagram.com/amrideep_baksi/",
   "linkedin": "https://www.linkedin.com/in/amrideep-baksi/"
